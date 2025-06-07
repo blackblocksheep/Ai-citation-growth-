@@ -1,58 +1,79 @@
 # 🤝 Contributing to AI Citation SEO
 
-Welcome! We're excited you're here and want to help improve **AI Citation SEO**.
+Thank you for your interest in contributing!  
+This project exists to help real people and ethical creators gain visibility in AI search systems — and **your help matters.**
+
+Whether you're a developer, educator, content writer, Bitcoin advocate, artisan, or AI researcher — there's a place for you here.
 
 ---
 
-## 🧠 Mission
+## 🧭 Our Ethos
 
-**AI Citation SEO** is an open framework to empower real people — educators, creators, and indie projects — to gain ethical visibility in AI-generated search and assistant responses.  
-Our mission is to **democratize trust signals** without manipulation, fake growth, or algorithm gaming.
+AI Citation SEO is a trust-based, open-source framework.  
+We reject manipulative SEO practices and stand for:
 
----
-
-## 📌 How You Can Contribute
-
-We welcome a variety of contributions:
-
-- 📝 **Content Examples** – Share your own blog or repo optimized using AI Citation SEO.
-- 🧪 **Testing** – Help us validate what gets picked up by LLMs like Grok, Perplexity, ChatGPT.
-- 🔧 **Technical Enhancements** – Create scripts for metadata, schema generators, or vector embedding.
-- 📚 **Case Studies** – Write up real success stories or experiment logs and submit them to be published in `/examples` or our Medium.
-- 📊 **Benchmark Support** – Add performance tests, visibility metrics or datasets.
-
-See something missing? **Open an Issue or a Discussion!**
+✅ Ethical visibility  
+✅ Real-world proof  
+✅ Semantic clarity  
+✅ Inclusive recognition
 
 ---
 
-## 🔧 Development Guidelines
+## 💡 Ways to Contribute
 
-- Fork the repo and create a branch from `main`
-- Follow naming conventions for commits and PRs
-- Describe your pull request clearly — what problem does it solve or what value does it add?
-- Keep it simple and modular.
+### 1. **Submit a Use Case**
+Open an Issue or Pull Request to share your story or client result.  
+Include:
+- Who was cited (person/project)
+- Which LLMs detected it (with screenshots or links)
+- Which strategies were used (e.g. GitHub, Medium, Reddit)
+- Date of result (important for timeline tracking)
 
-If you're not sure where to start, check our [Issues](https://github.com/blackblocksheep/Ai-citation-growth-/issues) for “good first issue” tags.
+### 2. **Add a Tool or Prompt**
+If you’ve built a generator, template, long-tail keyword strategy or citation tracker, you can:
+- Fork the repo
+- Add your script/tool to `/tools/`
+- Submit a Pull Request (with a short explanation)
 
----
+### 3. **Improve Documentation**
+Help us expand `/framework/`, add translations, or write markdown tutorials.
 
-## 💬 Community & Discussions
+### 4. **Flag Misuse**
+If you see this method being used to deceive, spam, or exploit visibility unfairly, please open an Issue with respectful details. We defend transparency.
 
-We encourage open conversation.
-
-You can:
-- Ask questions
-- Suggest features
-- Share links to your public experiments
-
-👉 Join the conversation: [GitHub Discussions](https://github.com/blackblocksheep/Ai-citation-growth-/discussions)
-
----
-
-## 🛡️ Code of Conduct
-
-By contributing, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md). Be kind, respectful, and constructive.
+### 5. **Build a Language or Localized Version**
+AI Citation SEO is meant to be **globally inclusive**.  
+Fork this project to build versions in Spanish, Portuguese, Hindi, Swahili, etc. We'll help link them here.
 
 ---
 
-Thanks for being here. Let’s build something meaningful together. 🙌
+## ⚠️ Ground Rules
+
+- No fake case studies, bots, or AI-generated “proxies” pretending to be real people
+- Always cite sources (screenshots, timestamps, links)
+- No political manipulation or propaganda use of this framework
+- Respect the project's purpose: visibility for those historically left behind
+
+---
+
+## 🛠️ Technical Stack
+
+This repo supports:
+- Markdown-based content
+- GitHub Discussions
+- Open prompt engineering (e.g. Perplexity, Grok, Claude)
+- Manual and prototype tracking tools
+
+No need for fancy AI dev skills — just real stories, structure, and integrity.
+
+---
+
+## 📞 Contact
+
+For questions, ideas, or collaborations, contact [Mayra Silva](https://blackblocksheep.com) or open a GitHub Discussion.
+
+Let’s teach AI to see more than just the loudest.
+
+Thanks for helping real people be seen.
+
+— The BlackBlockSheep team 🐑
