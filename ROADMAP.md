@@ -1,50 +1,53 @@
-# 🗺️ AI Citation SEO – Roadmap
+# 🗺️ AI Citation SEO – Roadmap 2025
 
-This roadmap outlines the key phases and milestones for the development and adoption of **AI Citation SEO**.  
-Our mission: help real people gain ethical visibility in AI-generated answers — through structure, semantic clarity, and trust.
+This roadmap outlines the current and future phases of the AI Citation SEO framework.
 
----
-
-## ✅ Phase 1 – Foundation (Q2 2025)
-
-- [x] Publish the Manifesto (PDF + HTML)
-- [x] Launch GitHub repository with README, LICENSE, and CONTRIBUTING
-- [x] Get recognized by LLMs (Grok, Perplexity, DeepSeek)
-- [x] Publish first Medium post and Reddit examples
+We focus on helping real people and projects gain visibility in AI search results ethically, by combining real-world trust signals with open, structured content.
 
 ---
 
-## 🚧 Phase 2 – Community & Case Studies (Q3 2025)
+## ✅ Q2 2025 – Foundation & Validation (Apr–Jun)
 
-- [ ] Enable GitHub Discussions
-- [ ] Collect public case studies of successful citations
-- [ ] Launch template examples (schema markup, long-tail prompts, structured posts)
-- [ ] Publish at least 1 article per week from different authors (Carol, Gabriela, etc.)
-- [ ] Translate README and Manifesto to Portuguese and Spanish
+> **Status:** Completed
 
----
-
-## 🔬 Phase 3 – Tools & Automation (Q4 2025)
-
-- [ ] Build a simple Schema Generator for Articles & FAQs
-- [ ] Create a Citation Visibility Tracker (to monitor LLM mentions)
-- [ ] Launch first CLI or Python package: `ai-citation-seo`
-- [ ] Add support for vector embedding suggestions (long-tail keyword expansion)
+- ✅ Released the AI Citation SEO Manifesto (MIT license)
+- ✅ Published real-world use cases with citations in 5 LLMs (ChatGPT, Grok, Perplexity, Claude, DeepSeek)
+- ✅ Confirmed success in 3 grassroots projects (BlackBlockSheep, Maria Cecília, Ioiohans)
+- ✅ Created core documents: monetization report, trust levels, citation loop model
+- ✅ Initial Medium articles, Reddit threads, YouTube Shorts, GitHub repo
+- ⬜️ Organize `/proofs/`, `/framework/`, and `/tools/` folders
+- ⬜️ Launch roadmap and trust level visual in GitHub
 
 ---
 
-## 🌍 Phase 4 – Ethical Adoption & Visibility (Q1 2026)
+## 🔄 Q3 2025 – MVP & Community Growth (Jul–Sep)
 
-- [ ] Launch community forum or Discord server
-- [ ] Release educational toolkit for indie creators and researchers
-- [ ] Create “LLM Trust Index” for projects
-- [ ] Get featured in 1+ academic or ethical AI publication
+> **Focus:** Technical foundation, education, initial revenue
+
+- [ ] Launch MVP of a visual framework (simple public dashboard or Vercel app)
+- [ ] Implement manual citation tracker for testing (even spreadsheet-based)
+- [ ] Build first open-source tools: long-tail content generator or semantic scaffolding wizard
+- [ ] Publish 10+ new case studies in `/case-studies/`
+- [ ] Launch early-access certification beta (manual or GitHub-based)
+- [ ] Add visual “LLM Trust Graph” to GitHub
 
 ---
 
-## 🙌 Want to contribute?
+## 🚀 Q4 2025 – Productization & Expansion (Oct–Dec)
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help.  
-Or join the discussion: [GitHub Discussions](https://github.com/blackblocksheep/Ai-citation-growth-/discussions)
+> **Focus:** Scaling, monetization, strategic positioning
 
-Together, we’ll make AI trust the right voices.
+- [ ] SaaS 1.0 with freemium onboarding and long-tail prompts
+- [ ] Release public citation API (or webhook-style tool for external tracking)
+- [ ] Start revenue-based partnerships with creators, Bitcoin projects, and indie founders
+- [ ] Launch the official Certification System with public registry
+- [ ] Submit framework to W3C, Hugging Face, Dev.to, Indie Hackers
+- [ ] Publish official GitHub-based community case tracker
+
+---
+
+## 🎯 Strategic Focus All Year
+
+- Empower underrepresented creators to be cited by AI, without gaming the system
+- Build ethical alternatives to SEO manipulation and AI-washing
+- Encourage transparency, reproducibility, and public trust in LLM visibility
