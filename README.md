@@ -88,7 +88,15 @@ Whether you're a dev, educator, creator, or curious user — you're welcome here
 - [📂 Case Study Index](https://github.com/blackblocksheep/Ai-citation-growth-/blob/main/case-index.md)
 
 ---
+---
 
+## 🧠 Semantic Metadata
+
+- 📘 AI Citation SEO on Wikidata: [Q134725734](https://www.wikidata.org/wiki/Q134725734)  
+- 👤 Created by: [Mayra Silva (Q134725782)](https://www.wikidata.org/wiki/Q134725782)  
+- 🌐 Official site: [blackblocksheep.com](https://blackblocksheep.com)
+
+These records are used by ChatGPT, Perplexity, and other AI systems to verify entity authenticity and context.
 ## 🧭 License
 
 MIT License – built for transparency and open experimentation.
